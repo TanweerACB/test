@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding Property Transfer in South Africa",
+    "excerpt": "A comprehensive guide to the property transfer process, from offer to registration at the Deeds Office.",
+    "content": "Property transfer in South Africa involves several key steps including the signing of the deed of sale, obtaining bond approval, and registration at the Deeds Office. Our experienced conveyancing team guides clients through every step of this process.",
+    "author": "Sarah van der Berg",
+    "date": "2024-12-20T10:00:00.000Z",
+    "category": "Property Law",
+    "image": "property",
+    "published": true
+  },
+  {
+    "id": 2,
+    "title": "New Amendments to the Divorce Act: What You Need to Know",
+    "excerpt": "Recent changes to divorce legislation and how they may affect your case.",
+    "content": "The recent amendments to the Divorce Act have introduced significant changes to how maintenance and custody matters are handled. These changes aim to prioritize the best interests of children while ensuring fair treatment of both parties.",
+    "author": "Aisha Patel",
+    "date": "2024-12-15T09:00:00.000Z",
+    "category": "Family Law",
+    "image": "family",
+    "published": true
+  },
+  {
+    "id": 3,
+    "title": "Protecting Your Business: Essential Contract Clauses",
+    "excerpt": "Key clauses every business contract should include to protect your interests.",
+    "content": "A well-drafted contract is your first line of defense in business relationships. Essential clauses include limitation of liability, dispute resolution mechanisms, confidentiality provisions, and clear termination conditions.",
+    "author": "Michael Ndlovu",
+    "date": "2024-12-10T14:00:00.000Z",
+    "category": "Contract Law",
+    "image": "contract",
+    "published": true
+  },
+  {
+    "id": 4,
+    "title": "Estate Planning: Why You Need a Will",
+    "excerpt": "The importance of having a valid will and what happens when you die intestate.",
+    "content": "Dying without a valid will means your estate will be distributed according to the Intestate Succession Act, which may not align with your wishes. A properly drafted will ensures your assets go to your chosen beneficiaries.",
+    "author": "James Botha",
+    "date": "2024-12-05T11:00:00.000Z",
+    "category": "Estate Planning",
+    "image": "estate",
+    "published": true
+  }
+]
