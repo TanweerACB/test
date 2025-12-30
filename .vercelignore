@@ -1,0 +1,8 @@
+server.js
+node_modules
+wordpress-theme
+rockwell-wp
+.git
+.kiro
+*.md
+!README.md
